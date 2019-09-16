@@ -1,0 +1,25 @@
+asOnDate
+applicationStatus
+applicationNo
+tradeMarkClass
+applicationDate
+office
+state
+country
+filingMode
+tmAppliedFor
+tmCategory
+tmType
+userDetail
+certificateDetail
+validRenewedUpTo
+proprietorName	
+proprietorAddress
+email
+agentName
+agentAddress
+goodsServiceDetails
+publicationDetails
+WIPO Notification Date
+Conditions
+International Reg No.
