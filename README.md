@@ -1,5 +1,7 @@
 # Trademark-scrapper
+## Developed as a part of my internship program at (Probe Information Services Pvt. Ltd.)[https://probeinformation.com/].
 
-This project is a state of an art to scrape all the trademark &amp; related information from http://www.ipindia.nic.in/ .
+Ths project is focused on web-scraping trademark &amp; related information of any Indian company associated with Ministry of Corporate Affaris.
+(MCA website - http://www.ipindia.nic.in/)
 
-Project has been developed in java using selenium framework.
+The code has been developed using Java Selenium framework.
